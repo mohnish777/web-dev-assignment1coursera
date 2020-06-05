@@ -111,6 +111,16 @@ div{
 
 
 }
+@media(max-width:767px){
+  .col-sm-12
+  {
+    float:left;
+    border:1px;
+  }
+  .col-sm-12{
+    width:100%;
+  }
+}
 /*@media(min-width: 992px){
   #box1{
     width: 33.33%
